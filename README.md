@@ -62,10 +62,10 @@
 <div align="center">
 
 <!--STATS-->
-<img src="https://github-readme-stats.vercel.app/api?username=Adrianerp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%"/>
+<img src="" width="45%"/>
 
 <!--LENGUAJES-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianerp&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="45%"/>
+<img src="" width="45%"/>
 
 <br />
 </div>
